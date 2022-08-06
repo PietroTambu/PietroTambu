@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PietroTambu&layout=compact&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PietroTambu)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
