@@ -1,6 +1,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PietroTambu&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Wakatime Lang Chart](https://wakatime.com/share/@PietroTambu/6dc46acd-2fcb-4a88-8def-ba3cf4e2d319.svg)](Wakatime Lang chart)
+![Wakatime Lang Chart](https://wakatime.com/share/@PietroTambu/6dc46acd-2fcb-4a88-8def-ba3cf4e2d319.svg)(Wakatime Lang chart)
 
 [![wakatime](https://wakatime.com/badge/user/28be8ba6-eb63-40f3-9bf4-569255196a48.svg)](https://wakatime.com/@28be8ba6-eb63-40f3-9bf4-569255196a48)
 <!--
