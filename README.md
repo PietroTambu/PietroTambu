@@ -1,6 +1,6 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PietroTambu&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<img src="https://wakatime.com/share/@PietroTambu/c6fbb795-318c-422c-934d-6364c06fb64d.svg" alt="WakatimeChart" width="50%"/>
+<img src="https://wakatime.com/share/@PietroTambu/c6fbb795-318c-422c-934d-6364c06fb64d.svg" alt="WakatimeChart" width="60%"/>
 
 [![wakatime](https://wakatime.com/badge/user/28be8ba6-eb63-40f3-9bf4-569255196a48.svg)](https://wakatime.com/@28be8ba6-eb63-40f3-9bf4-569255196a48)
 <!--
