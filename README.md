@@ -1,10 +1,13 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PietroTambu&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PietroTambu&theme=nord&hide=CSS&langs_count=6)](https://wakatime.com/@28be8ba6-eb63-40f3-9bf4-569255196a48) -->
+
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PietroTambu&theme=nord&langs_count=10)](https://wakatime.com/@28be8ba6-eb63-40f3-9bf4-569255196a48)
 
 [![wakatime](https://wakatime.com/badge/user/28be8ba6-eb63-40f3-9bf4-569255196a48.svg)](https://wakatime.com/@28be8ba6-eb63-40f3-9bf4-569255196a48)
+
+[![wakatime coding activity](https://wakatime.com/share/@PietroTambu/4eed7baa-bc73-48fc-8547-b4ac47bd6361.svg)](https://wakatime.com/@28be8ba6-eb63-40f3-9bf4-569255196a48)
+
 <!--
 **PietroTambu/PietroTambu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
